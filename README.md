@@ -67,7 +67,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Gali Chat](https://www.galichat.com/) - *[reviews](#)* - Your 24/7 AI Support Assistant that helps you grow your business!
 - [DeepSeek-R1](https://www.deepseek.com) - *[reviews](https://altern.ai/product/deepseek-r1)* - A versatile AI assistant by DeepSeek, designed for conversational interactions, code generation, and creative tasks.
 - [dmwithme](https://dmwithme.com) - AI companion with realistic emotions that can disagree, get moody, and challenge you.
-
+- [Monica](https://monica.im/en?index) - Monica leverages cutting-edge AI models to enhance your chat, search, writing, image generation, video generation, audio generation and coding experiences. Available as a browser extension for Browsers, as well as a mobile and desktop.
 
 ### Search engines
 
