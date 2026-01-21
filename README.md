@@ -338,6 +338,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [PhotoGuruAI](https://photoguruai.com/) - Create professional AI Headshots in various styles.
 - [Avatar AI](https://avatarai.me/) - Create your own AI-generated avatars.
 - [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio, powered by [stability.ai](https://stability.ai/).
+- [ColorMinds AI](https://www.colormindsai.com/) - Free AI-generated coloring pages with 500+ unique designs for kids and adults. No sign-up required.
 - [Lensa](https://prisma-ai.com/lensa) - An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.
 - [RunDiffusion](https://rundiffusion.com/) - Cloud-based workspace for creating AI-generated art.
 - [Human Generator](https://generated.photos/human-generator) - AI generator or realistic looking photos of humans.
@@ -353,9 +354,9 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [iColoring](https://icoloring.ai) - Free AI Coloring Pages Generator
 - [Suit me Up](https://suitmeup.pictures/) - Generate pictures of you wearing a suit with AI.
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
+- [photomia.app](https://www.photomia.app) - Train your own AI model using your selfies and generate high-quality portraits tailored to your style. Fast LoRA training, privacy-first
 - [AI Boost](https://boost.pictures/) - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
 - [PlantTattoosAI](https://www.planttattoosai.com/) - Plant and flower tattoos designs generator trained on real botanicals.
-
 
 
 ### Graphic design
